@@ -21,25 +21,25 @@ const _nav = [
     component: CNavItem,
     name: 'Şifreleme Algoritması',
     to: '/fibonasal/algorithm',
-    icon: <CIcon icon={cibDiscover} customClassName="nav-icon" />,
+
   },
   {
     component: CNavItem,
     name: 'Bilgiler',
     to: '/fibonasal/info',
-    icon: <CIcon icon={cibDiscover} customClassName="nav-icon" />,
+
   },
   {
     component: CNavItem,
     name: 'Arayüz Kullanımı',
     to: '/fibonasal/manuel',
-    icon: <CIcon icon={cibDiscover} customClassName="nav-icon" />,
+
   },
   {
     component: CNavItem,
     name: 'Şifreleme Örnekleri',
     to: '/fibonasal/examples',
-    icon: <CIcon icon={cibDiscover} customClassName="nav-icon" />,
+
   }
 ]
 
